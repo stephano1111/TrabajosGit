@@ -1,0 +1,29 @@
+body {
+    background-color:blanchedalmond;
+    margin: 0;
+}
+
+nav {
+    width: 100%;
+    float: left;
+}
+
+.menu {
+    margin: 0;
+    padding: 8px;
+    height: 21px;
+    background-color:black;
+}
+
+.menu li {
+    display: inline;
+}
+
+.button {
+    font-family: Arial;
+    font-size: lem;
+    font-style: none;
+    color: aliceblue;
+    padding: 8px;
+    text-decoration: none;
+}
